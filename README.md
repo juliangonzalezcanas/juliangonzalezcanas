@@ -6,7 +6,7 @@
 ## 🎓 Education
 
 ### AI Engineering
-**Universidad de Palermo
+**Universidad de Palermo**
 - Present
 
 ### High School with Computer orientated focus
