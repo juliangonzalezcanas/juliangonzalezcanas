@@ -1,7 +1,19 @@
 <h1 align="center">Hi 👋, I'm Julián González</h1>
 <h3 align="center">A computer technician studying AI Engineering</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juliangonzalezcanas" alt="juliangonzalezcanas" /></a> </p>
+---
+
+## 🎓 Education
+
+### AI Engineering
+** Universidad de Palermo
+- Present
+
+### High School with Computer orientated focus
+**Instituto Politécnico Modelo**
+- 2019 - 2024
+
+---
 
 - 🔭 I’m currently working on [CirOS](https://github.com/users/juliangonzalezcanas/projects/4)
 
